@@ -1,0 +1,6 @@
+ENDPOINTS:
+GET https://bored-api.appbrewery.com/random
+QUERY:
+GET https://bored-api.appbrewery.com/filter?type=education
+KEY:
+GET https://bored-api.appbrewery.com/activity/3943506

@@ -1,0 +1,20 @@
+*{
+    margin:0px;
+    padding:0px;
+    border-style:border-box;
+}
+.box{
+    height:100vh;
+    width:100vw;
+}
+/* THIS IS THE MAIN PART OF YOUTUBE'S UI THE SEARCH BAR AT THE TOP AND THE SIDEBAR AND VIDEOS PART*/
+.search{
+    height:5%;
+    width:100%;
+    border:2px solid red;
+}
+.main{
+    height:95%;
+    width:100%;
+    border:2px solid black;
+}
